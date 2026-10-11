@@ -1,20 +1,34 @@
-# Mohini Chauhan
-### Full-Stack Software Developer at Microsoft | Specializing in scalable web applications and Azure-native cloud infrastructure services.
+<div align="center">
+  <h1>Hi, I'm Mohini.</h1>
+  <p><strong>Building the product—and better ways to build it.</strong></p>
+  <p>Software Engineer at Microsoft</p>
+  <p>
+    <a href="https://www.linkedin.com/in/chauhan-mohini">LinkedIn</a>
+  </p>
+</div>
 
-## Expertise
-
-* **Backend**: Proficient in C#, .NET frameworks, and Azure Functions for building robust, event-driven services.
-* **Frontend**: Hands-on experience with JavaScript, TypeScript, and React for dynamic user interfaces.
-* **Tools & Practices**: Azure DevOps for CI/CD pipelines, Playwright/Selenium for E2E testing, and advanced troubleshooting in integrated Azure environments.
-
-With a B.Tech in Computer Science and 1+ year of professional experience, I focus on delivering production-grade solutions that emphasize clean architecture, reliability, and end-to-end observability.
-
----
-## Featured Contributions 
-* **E2E Shared Marketplace Webhook Service (Microsoft Internship)**: Designed and implemented a centralized Azure service to handle marketplace actions across native solutions, streamlining webhook processing for scalability and consistency.
-* **Azure Functions Migration (Previous Internship)**: Led the upgrade of 8 legacy .NET Core 3.1 functions to .NET 8.0 LTS, leveraging Amazon Q Developer for efficient debugging and ensuring on-time delivery with zero downtime.
-* **E2E Test Coverage Initiative (Ongoing)**: Architecting comprehensive testing from planning and low-level design to production code and full pipeline integration in Azure DevOps—driving coverage from scratch while adhering to SOLID principles and best practices.
-
-Passionate about cloud-native innovation and open-source collaboration. Let's connect on emerging tech or potential contributions.
+<p align="center">
+  <img src="./assets/developer-doodle.svg" alt="A female developer at a laptop, with gears and violet doodle accents" width="480">
+</p>
 
 ---
+
+### About me
+
+- **Building:** universal apps for web + mobile, and reusable UI systems.
+- **Currently:** developing reusable AI agentic workflows for cloud-native engineering on Azure.
+- **My kind of problem:** turning a recurring engineering task into a workflow we can validate and reuse.
+
+### My toolkit
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tamagui](https://img.shields.io/badge/Tamagui-FFD54F?style=for-the-badge)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+
+---
+
+Cross-platform apps, agent workflows, or a tricky design trade-off? **[Happy to compare notes.](https://www.linkedin.com/in/chauhan-mohini)**
