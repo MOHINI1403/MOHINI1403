@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi, I'm Mohini Chauhan.</h1>
-  <p><strong>Building the product—and better ways to build it.</strong></p>
+  <p><strong>Building products—and better ways to build it.</strong></p>
   <p>
     Software Engineer at
     <img src="./assets/microsoft-logo.png" alt="Microsoft" height="18">
