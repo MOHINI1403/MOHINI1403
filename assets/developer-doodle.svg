@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="340" viewBox="0 0 640 340" role="img" aria-labelledby="doodle-title doodle-description">
+  <title id="doodle-title">A little building in progress</title>
+  <desc id="doodle-description">An original line-art doodle of a woman with a ponytail coding on a laptop, surrounded by small gears, code brackets, and leafy sprigs. Violet and pink accents on an off-white background.</desc>
+  <defs>
+    <g id="gear" fill="#fffafd" stroke-width="2.5" stroke-linejoin="round">
+      <path d="M-8-40H8L10-30 17-27 26-32 38-20 32-12 34-5 44-3V13L34 15 30 22 35 31 23 43 15 37 8 39 6 49H-10L-12 39-19 35-28 41-40 29-34 21-37 14-47 12V-4L-37-6-33-13-39-22-27-34-19-28-12-31Z"/>
+      <circle cx="-1" cy="4" r="19"/>
+    </g>
+  </defs>
+
+  <rect width="640" height="340" rx="24" fill="#fffafd"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <use href="#gear" transform="translate(462 86) rotate(12) scale(.8)" stroke="#38234b"/>
+    <use href="#gear" transform="translate(371 138) rotate(-8) scale(.48)" stroke="#aa8ddd"/>
+    <path d="m107 85-12 11 12 10m30-21 12 11-12 10m-15-29-8 37" stroke="#7363ff" stroke-width="2.5"/>
+    <path d="M159 69Q172 51 187 62" stroke="#f76fff" stroke-width="2"/>
+    <path d="m180 56 7 6-8 4" stroke="#f76fff" stroke-width="2"/>
+    <path d="M534 154V164M529 159H539" stroke="#e729ff" stroke-width="2"/>
+    <circle cx="405" cy="59" r="3" fill="#7363ff" stroke="none"/>
+    <circle cx="139" cy="148" r="3" fill="#f76fff" stroke="none"/>
+  </g>
+
+  <g stroke="#38234b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M217 105Q198 87 188 104Q181 117 190 130Q200 145 187 157Q176 168 190 183Q207 197 225 181L241 130Z" fill="#554060"/>
+    <path d="M216 110Q207 133 212 159L218 180 245 167 260 127Z" fill="#554060"/>
+    <path d="M228 161 224 190Q230 208 251 205L265 190 252 162Z" fill="#fffafd"/>
+    <path d="M213 189Q187 193 181 222L174 281Q173 294 188 295H288L284 227Q281 200 261 191L250 205 229 203Z" fill="#ad9cff"/>
+    <path d="M225 197Q234 217 256 201" fill="none"/>
+    <path d="M252 112Q276 115 278 137L277 145 286 153Q288 157 278 159L276 171Q266 186 251 179L228 162 224 136Z" fill="#fffafd"/>
+    <path d="M220 137Q217 124 209 123Q201 123 203 136Q205 146 217 145" fill="#fffafd"/>
+    <path d="M210 133 217 138" fill="none" stroke-width="1.8"/>
+    <path d="M218 129Q220 147 227 153L230 130Q253 138 274 125L283 123Q289 113 274 105Q270 90 248 87Q211 83 208 113Q208 122 218 129Z" fill="#554060"/>
+    <path d="M227 118Q248 121 265 106" fill="none" stroke="#c6afd6" stroke-width="1.8"/>
+    <path d="M259 142Q264 137 270 140" fill="none" stroke-width="1.8"/>
+    <path d="M267 149V152" fill="none" stroke-width="2.7"/>
+    <path d="M268 170Q274 171 278 167" fill="none" stroke-width="1.8"/>
+    <circle cx="221" cy="148" r="3.5" fill="#fcc9ff" stroke-width="1.5"/>
+    <path d="M206 113 215 117" fill="none" stroke="#f76fff" stroke-width="4"/>
+
+    <path d="M268 239 283 267 318 279Q325 282 324 289L316 295H286Q270 292 260 279L246 256Z" fill="#ad9cff"/>
+    <path d="M205 226Q191 232 193 248L195 275Q196 291 211 294L275 296 278 278 225 269 226 237" fill="#ad9cff"/>
+    <path d="M223 242 225 263" fill="none" stroke="#7363ff" stroke-width="2"/>
+    <path d="M273 279Q285 267 296 274L310 283Q314 288 310 291L285 296H273Z" fill="#fffafd"/>
+    <path d="M283 279 297 290M290 276 304 287" fill="none" stroke-width="1.5"/>
+    <path d="M306 278Q317 272 326 278L338 287Q342 293 336 295H310" fill="#fffafd" stroke-width="2"/>
+    <path d="M317 280 329 289" fill="none" stroke-width="1.5"/>
+
+    <path d="M346 212Q348 204 357 204L476 207Q483 207 480 215L452 288Q450 295 442 295H315Z" fill="#fffafd"/>
+    <path d="M354 213 472 215" fill="none" stroke="#aa8ddd" stroke-width="1.5"/>
+    <path d="M286 296H453L450 301Q448 305 440 305H297Q289 305 286 296Z" fill="#e9ddfa" stroke-width="2"/>
+    <path d="m390 250-7 6 6 6m20-11 7 6-7 6m-7-9-4 12" fill="none" stroke="#7363ff" stroke-width="2"/>
+  </g>
+
+  <g fill="none" stroke="#554060" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M89 305Q89 272 76 239Q69 220 73 204"/>
+    <path d="M76 249Q53 247 48 230Q68 228 76 249Z"/>
+    <path d="M73 224Q61 206 74 189Q87 207 73 224Z"/>
+    <path d="M83 267Q101 256 99 239Q82 244 83 267Z"/>
+    <path d="M87 287Q67 287 61 274Q80 270 87 287Z"/>
+    <path d="M545 305Q553 274 565 247Q573 229 570 215"/>
+    <path d="M551 287Q573 287 581 272Q561 267 551 287Z"/>
+    <path d="M557 269Q536 260 535 244Q554 246 557 269Z"/>
+    <path d="M568 244Q588 239 591 222Q573 223 568 244Z"/>
+    <path d="M570 225Q557 213 564 197Q578 208 570 225Z"/>
+    <path d="M40 307Q170 305 285 308Q433 306 600 308"/>
+  </g>
+  <path d="M101 310H140M493 311H522" stroke="#f76fff" stroke-width="2" stroke-linecap="round"/>
+</svg>
