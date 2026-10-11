@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Mohini.</h1>
-  <p><strong>Building the product—and better ways to build it.</strong></p>
+  <p><strong>Building products—and better ways to build it.</strong></p>
   <p>Software Engineer at Microsoft</p>
   <p>
     <a href="https://www.linkedin.com/in/chauhan-mohini">LinkedIn</a>
