@@ -1,23 +1,23 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Building agentic systems that actually get things done, with a violet and pink illuminated phone" width="100%">
+</p>
+
 <div align="center">
-  <h1>Hi, I'm Mohini.</h1>
-  <p><strong>Building products—and better ways to build it.</strong></p>
-  <p>Software Engineer at Microsoft</p>
+  <h1>Hi, I'm Mohini Chauhan.</h1>
+  <p><strong>Building the product—and better ways to build it.</strong></p>
   <p>
-    <a href="https://www.linkedin.com/in/chauhan-mohini">LinkedIn</a>
+    Software Engineer at
+    <img src="./assets/microsoft-logo.png" alt="Microsoft" height="18">
   </p>
 </div>
-
-<p align="center">
-  <img src="./assets/developer-doodle.svg" alt="A female developer at a laptop, with gears and violet doodle accents" width="480">
-</p>
 
 ---
 
 ### About me
 
-- **Building:** universal apps for web + mobile, and reusable UI systems.
-- **Currently:** developing reusable AI agentic workflows for cloud-native engineering on Azure.
-- **My kind of problem:** turning a recurring engineering task into a workflow we can validate and reuse.
+I enjoy building products and figuring out how to make the engineering behind them better. At Microsoft, I'm developing **reusable AI agentic workflows** for cloud-native engineering on Azure. What interests me is the work around the model: giving it useful context, checking the results, and learning from the attempts that don't work.
+
+Outside work, I spend many weekends building **cross-platform business apps for web, iOS, and Android**. I like being involved from the first "what problem are we solving?" through the UX, architecture, and the details that matter when someone actually uses the product. That's the mix I enjoy: building something useful and finding a better way to build the next thing.
 
 ### My toolkit
 
@@ -31,4 +31,8 @@
 
 ---
 
-Cross-platform apps, agent workflows, or a tricky design trade-off? **[Happy to compare notes.](https://www.linkedin.com/in/chauhan-mohini)**
+### Let's connect
+
+If you're a fellow platform developer or work in tech, let's connect for a chit-chat!
+
+[LinkedIn](https://www.linkedin.com/in/chauhan-mohini)
